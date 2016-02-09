@@ -1,11 +1,11 @@
 ---
 layout: default
 ---
-![Image Alt](images/g.png)
 
-## Bottom-Up Change for Quality Education
+#### Bottom-Up Change for Quality Education
+![Mote4Edu](images/giulia-cut.png)
 
-#### Vote Giulia Montefiore (Monte) for Academic Affairs Officer!
+#### Vote Giulia Montefiore for Academic Affairs Officer!
 
 What students really need to drive a cultural change towards quality education at Durham is a passionate representative willing to stand up for students’ ideas, ready to develop implementable changes and be in constant dialogue with her peers.
 
@@ -15,8 +15,13 @@ I am Course Rep, Department Rep and Faculty Rep for Social Sciences and Health, 
 
 If we, the students, get lecturers and researchers to buy into our ideas, we can start implementing change NOW, thereby gaining all the means to bring our vision all the way up to the highest University levels. I have ideas and ways to realise them. If you believe in Bottom-Up Change for Quality Education, vote Monte!
 
+Follow me on [Facebook](https://www.facebook.com/Monte4Edu/) and [Twitter](https://twitter.com/Monte4Edu)!
 
-####10 Policies for Bottom-Up Change for Quality Education
+Voting open from 16th until 19th February at 17.00!
+Vote at [durhamsu.com](durhamsu.com).
+
+
+#### 10 Policies for Bottom-Up Change for Quality Education
 
 1.	__Multiple and Continuous Assessment Methods:__ we need less pressure on a few hours of exams, and more value to the work we do during the year and the skills we develop through it.
 
@@ -40,3 +45,7 @@ If we, the students, get lecturers and researchers to buy into our ideas, we can
 9.	__Better Timetabling:__ the most popular combinations of modules should be accounted for. Stop missing part of the next class because you need to be on the opposite side of town in 10 minutes, but can’t fly.
 
 10.	 __More Versatile and user-friendly DUO__ in a __Library open until 2 a.m. when not on 24/7 period.__
+
+![Monte4Edu](images/g.png)
+
+Follow me on [Facebook](https://www.facebook.com/Monte4Edu/) and [Twitter](https://twitter.com/Monte4Edu)!
